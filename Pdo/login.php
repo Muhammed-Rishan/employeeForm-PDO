@@ -50,7 +50,7 @@ if ($username == $CUser && $password == $Cpass) {
 <html>
 <head>
 <title>Login</title>
-<link rel="stylesheet" href="style/styles.css">
+<link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 <h1>Login Form</h1>
