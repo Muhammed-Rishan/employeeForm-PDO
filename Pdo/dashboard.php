@@ -21,7 +21,7 @@ if (!isset($_SESSION['username'])){
 		<ul>
 			<li><a href="index.html">Registration Form</a></li>
 			<li><a href="view.php">View Table</a></li>
-            <li><a href="logout.php" class="logout-btn">Logout</a></li>
+            <li><a href="logout.php" class="logout">Logout</a></li>
 		</ul>
 	</nav>
 </body>
